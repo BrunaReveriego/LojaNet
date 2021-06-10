@@ -1,0 +1,31 @@
+﻿@model IEnumerable<LojaNet.Models.Cliente>
+
+@{
+    ViewBag.Title = "Index";
+}
+
+<h2>Clientes</h2>
+
+<a class="btn btn-info" href="/Cliente/Incluir">Novo</a>
+
+<table class="table">
+    <tr>
+        <td>Nome</td>
+        <td>Email</td>
+    </tr>
+
+    @foreach (var cliente in Model)
+    {
+        <tr>
+            <td>
+                <a href="/Cliente/Detalhes/@cliente.Id">@cliente.Nome</a>
+                @*@Html.ActionLink(cliente.Nome, "Alterar", new { id = cliente.Id })*@
+            </td>
+            <td>
+                @cliente.Email
+            </td>
+        </tr>
+    }
+
+
+</table>

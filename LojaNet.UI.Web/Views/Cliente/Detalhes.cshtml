@@ -1,0 +1,27 @@
+﻿@model LojaNet.Models.Cliente
+
+@{
+    ViewBag.Title = "Detalhes";
+}
+
+<h2>Dados do Clientes</h2>
+
+<dl>
+    <dt>Nome:</dt>
+    <dd>@Model.Nome</dd>
+
+    <dt>Telefone:</dt>
+    <dd>@Model.Telefone</dd>
+
+    <dt>E-mail:</dt>
+    <dd>@Model.Email</dd>
+
+
+</dl>
+
+<div>
+    <a href="/Cliente/Index" class="btn btn-default">Voltar</a>
+    <a href="/Cliente/Alterar/@Model.Id" class="btn btn-default">Alterar</a>
+    <a href="/Cliente/Excluir/@Model.Id" class="btn btn-default">Excluir</a>
+    <a href="/Cliente/Serializar/@Model.Id" class="btn btn-default">Serializar</a>
+</div>
