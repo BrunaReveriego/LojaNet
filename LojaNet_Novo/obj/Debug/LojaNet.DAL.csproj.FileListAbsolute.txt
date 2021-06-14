@@ -1,9 +1,14 @@
-C:\Nano\Projeto\LojaNet_Novo\LojaNet_Novo\obj\Debug\LojaNet.DAL.csprojAssemblyReference.cache
-C:\Nano\Projeto\LojaNet_Novo\LojaNet_Novo\obj\Debug\LojaNet.DAL.csproj.CoreCompileInputs.cache
+C:\Nano\Projeto\LojaNet_Novo\LojaNet_Novo\bin\Debug\LojaNet_Novo.dll.config
 C:\Nano\Projeto\LojaNet_Novo\LojaNet_Novo\bin\Debug\LojaNet_Novo.dll
 C:\Nano\Projeto\LojaNet_Novo\LojaNet_Novo\bin\Debug\LojaNet_Novo.pdb
+C:\Nano\Projeto\LojaNet_Novo\LojaNet_Novo\bin\Debug\EntityFramework.dll
+C:\Nano\Projeto\LojaNet_Novo\LojaNet_Novo\bin\Debug\EntityFramework.SqlServer.dll
 C:\Nano\Projeto\LojaNet_Novo\LojaNet_Novo\bin\Debug\LojaNet.Models.dll
 C:\Nano\Projeto\LojaNet_Novo\LojaNet_Novo\bin\Debug\LojaNet.Models.pdb
+C:\Nano\Projeto\LojaNet_Novo\LojaNet_Novo\bin\Debug\EntityFramework.xml
+C:\Nano\Projeto\LojaNet_Novo\LojaNet_Novo\bin\Debug\EntityFramework.SqlServer.xml
+C:\Nano\Projeto\LojaNet_Novo\LojaNet_Novo\obj\Debug\LojaNet.DAL.csprojAssemblyReference.cache
+C:\Nano\Projeto\LojaNet_Novo\LojaNet_Novo\obj\Debug\LojaNet.DAL.csproj.CoreCompileInputs.cache
 C:\Nano\Projeto\LojaNet_Novo\LojaNet_Novo\obj\Debug\LojaNet.DAL.csproj.CopyComplete
 C:\Nano\Projeto\LojaNet_Novo\LojaNet_Novo\obj\Debug\LojaNet_Novo.dll
 C:\Nano\Projeto\LojaNet_Novo\LojaNet_Novo\obj\Debug\LojaNet_Novo.pdb

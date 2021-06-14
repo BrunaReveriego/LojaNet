@@ -65,6 +65,7 @@ C:\Nano\Projeto\LojaNet_Novo\LojaNet.UI.Web\bin\System.Web.WebPages.dll
 C:\Nano\Projeto\LojaNet_Novo\LojaNet.UI.Web\bin\System.Web.WebPages.Razor.dll
 C:\Nano\Projeto\LojaNet_Novo\LojaNet.UI.Web\bin\WebGrease.dll
 C:\Nano\Projeto\LojaNet_Novo\LojaNet.UI.Web\bin\LojaNet_Novo.dll
+C:\Nano\Projeto\LojaNet_Novo\LojaNet.UI.Web\bin\EntityFramework.dll
 C:\Nano\Projeto\LojaNet_Novo\LojaNet.UI.Web\bin\LojaNet.BLL.pdb
 C:\Nano\Projeto\LojaNet_Novo\LojaNet.UI.Web\bin\LojaNet.Models.pdb
 C:\Nano\Projeto\LojaNet_Novo\LojaNet.UI.Web\bin\System.Web.Helpers.xml
@@ -78,6 +79,8 @@ C:\Nano\Projeto\LojaNet_Novo\LojaNet.UI.Web\bin\Newtonsoft.Json.xml
 C:\Nano\Projeto\LojaNet_Novo\LojaNet.UI.Web\bin\Antlr3.Runtime.pdb
 C:\Nano\Projeto\LojaNet_Novo\LojaNet.UI.Web\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
 C:\Nano\Projeto\LojaNet_Novo\LojaNet.UI.Web\bin\LojaNet_Novo.pdb
+C:\Nano\Projeto\LojaNet_Novo\LojaNet.UI.Web\bin\LojaNet_Novo.dll.config
+C:\Nano\Projeto\LojaNet_Novo\LojaNet.UI.Web\bin\EntityFramework.xml
 C:\Nano\Projeto\LojaNet_Novo\LojaNet.UI.Web\bin\pt-br\System.Web.Helpers.resources.dll
 C:\Nano\Projeto\LojaNet_Novo\LojaNet.UI.Web\bin\pt-br\System.Web.Mvc.resources.dll
 C:\Nano\Projeto\LojaNet_Novo\LojaNet.UI.Web\bin\pt-br\System.Web.Optimization.resources.dll

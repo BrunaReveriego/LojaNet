@@ -2,8 +2,11 @@ C:\Nano\Projeto\LojaNet_Novo\LojaNet.BLL\bin\Debug\LojaNet.BLL.dll
 C:\Nano\Projeto\LojaNet_Novo\LojaNet.BLL\bin\Debug\LojaNet.BLL.pdb
 C:\Nano\Projeto\LojaNet_Novo\LojaNet.BLL\bin\Debug\LojaNet.Models.dll
 C:\Nano\Projeto\LojaNet_Novo\LojaNet.BLL\bin\Debug\LojaNet_Novo.dll
+C:\Nano\Projeto\LojaNet_Novo\LojaNet.BLL\bin\Debug\EntityFramework.dll
 C:\Nano\Projeto\LojaNet_Novo\LojaNet.BLL\bin\Debug\LojaNet.Models.pdb
 C:\Nano\Projeto\LojaNet_Novo\LojaNet.BLL\bin\Debug\LojaNet_Novo.pdb
+C:\Nano\Projeto\LojaNet_Novo\LojaNet.BLL\bin\Debug\LojaNet_Novo.dll.config
+C:\Nano\Projeto\LojaNet_Novo\LojaNet.BLL\bin\Debug\EntityFramework.xml
 C:\Nano\Projeto\LojaNet_Novo\LojaNet.BLL\obj\Debug\LojaNet.BLL.csprojAssemblyReference.cache
 C:\Nano\Projeto\LojaNet_Novo\LojaNet.BLL\obj\Debug\LojaNet.BLL.csproj.CoreCompileInputs.cache
 C:\Nano\Projeto\LojaNet_Novo\LojaNet.BLL\obj\Debug\LojaNet.BLL.csproj.CopyComplete

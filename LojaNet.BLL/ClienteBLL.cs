@@ -72,7 +72,7 @@ namespace LojaNet.BLL
 
         public Cliente ObterPorEmail(string email)
         {
-            throw new NotImplementedException();
+            return dal.ObterPorEmail(email);
         }
 
         public Cliente ObterPorId(string id)

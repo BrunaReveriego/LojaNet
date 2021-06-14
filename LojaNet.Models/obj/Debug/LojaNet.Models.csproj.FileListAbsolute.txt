@@ -1,6 +1,5 @@
 C:\Nano\Projeto\LojaNet_Novo\LojaNet.Models\bin\Debug\LojaNet.Models.dll
 C:\Nano\Projeto\LojaNet_Novo\LojaNet.Models\bin\Debug\LojaNet.Models.pdb
-C:\Nano\Projeto\LojaNet_Novo\LojaNet.Models\obj\Debug\LojaNet.Models.csprojAssemblyReference.cache
 C:\Nano\Projeto\LojaNet_Novo\LojaNet.Models\obj\Debug\LojaNet.Models.csproj.CoreCompileInputs.cache
 C:\Nano\Projeto\LojaNet_Novo\LojaNet.Models\obj\Debug\LojaNet.Models.dll
 C:\Nano\Projeto\LojaNet_Novo\LojaNet.Models\obj\Debug\LojaNet.Models.pdb
