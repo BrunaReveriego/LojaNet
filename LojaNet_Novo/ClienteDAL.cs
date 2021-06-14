@@ -41,6 +41,12 @@ namespace LojaNet.DAL
 
         public Cliente ObterPorEmail(string email)
         {
+
+            if (string.IsNullOrEmpty(email))
+            {
+                throw new ApplicationException("O email deve ser informado");
+            }
+
             Cliente cliente = null;
             using (var reader = DbHelper.ExecuteReader("ClienteObterPorEmail", "@email", email))
             {
